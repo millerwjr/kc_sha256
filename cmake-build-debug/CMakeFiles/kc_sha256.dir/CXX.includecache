@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.cpp
+cstring
+-
+fstream
+-
+kc_sha256.h
+D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.h
+
+D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.h
+string
+-
+
+D:/Google Drive/Projects/Programs/GitHub/kc_sha256/main.cpp
+iostream
+-
+kc_sha256.h
+D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.h
+
