@@ -46,12 +46,12 @@ namespace kc {
         void init();
         std::string hash(std::string const &text) const;
         std::string hash(std::ifstream const &infile) const;
-        static const unsigned int DIGEST_SIZE = (256 / 8);
 
     protected:
         typedef unsigned char uint8;
         typedef unsigned int uint32;
         typedef unsigned long long uint64;
+        static const unsigned int DIGEST_SIZE = (256 / 8);
 
         const static uint32 sha256_k[];
         static const unsigned int SHA224_256_BLOCK_SIZE = (512 / 8);

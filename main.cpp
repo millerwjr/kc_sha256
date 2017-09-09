@@ -87,6 +87,7 @@ int main() {
 
 
     std::remove("kc_sha256_temp_1.dat");
+    std::remove("kc_sha256_temp_2.dat");
 
     std::cout << std::endl << std::endl << "================================================================================";
     std::cout << std::endl << "k-Concise::MD5 Summary";
