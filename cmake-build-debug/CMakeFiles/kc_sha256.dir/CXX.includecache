@@ -11,6 +11,8 @@ cstring
 -
 fstream
 -
+sstream
+-
 kc_sha256.h
 D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.h
 
@@ -20,6 +22,8 @@ string
 
 D:/Google Drive/Projects/Programs/GitHub/kc_sha256/main.cpp
 iostream
+-
+fstream
 -
 kc_sha256.h
 D:/Google Drive/Projects/Programs/GitHub/kc_sha256/kc_sha256.h
